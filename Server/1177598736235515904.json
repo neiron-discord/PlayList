@@ -2,16 +2,7 @@
   "default": "Default",
   "playlists": {
     "Default": {
-      "tracks": [
-        {
-          "added_by": "642335102055088128",
-          "guild_id": "1177598736235515904",
-          "id": "SII-S-zCg-c",
-          "title": "back number - 高嶺の花子さん (full)",
-          "ts": 1756903737,
-          "url": "https://www.youtube.com/watch?v=SII-S-zCg-c"
-        }
-      ]
+      "tracks": []
     },
     "テスト": {
       "tracks": []
