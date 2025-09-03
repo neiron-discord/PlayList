@@ -5,7 +5,16 @@
       "tracks": []
     },
     "お気に入り": {
-      "tracks": []
+      "tracks": [
+        {
+          "added_by": "642335102055088128",
+          "guild_id": "1177598736235515904",
+          "id": "1kzZtRpoBGY",
+          "title": "【歌ってみた】bin covered by 花譜",
+          "ts": 1756905033,
+          "url": "https://www.youtube.com/watch?v=1kzZtRpoBGY"
+        }
+      ]
     }
   }
 }
