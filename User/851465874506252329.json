@@ -5,7 +5,16 @@
       "tracks": []
     },
     "テスト": {
-      "tracks": []
+      "tracks": [
+        {
+          "added_by": "851465874506252329",
+          "guild_id": "0",
+          "id": "-bq4NMJN4u8",
+          "title": "シカバネーゼ (feat. Ado)",
+          "ts": 1756910623,
+          "url": "https://youtu.be/-bq4NMJN4u8"
+        }
+      ]
     }
   }
 }
