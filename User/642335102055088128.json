@@ -1,0 +1,11 @@
+{
+  "default": "Default",
+  "playlists": {
+    "Default": {
+      "tracks": []
+    },
+    "お気に入り": {
+      "tracks": []
+    }
+  }
+}
